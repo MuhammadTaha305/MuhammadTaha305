@@ -21,8 +21,7 @@
 - 🤝 I'm looking to collaborate on **cloud, DevOps, and ML** projects.
 - 💬 Ask me about **AWS, side-channel analysis, deep learning, or distributed systems**.
 - 📫 How to reach me: **muhammadtaha7006@gmail.com**
-- 📖 Fun fact: I read web novels and built my own reader tooling around them.
-
+  
 ---
 
 ## 🛠️ Technologies & Tools
