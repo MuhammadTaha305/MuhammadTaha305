@@ -81,19 +81,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| ⚙️ [kube-health](https://github.com/MuhammadTaha305/kube-health) | Kubernetes HPA autoscaling demo with a live React metrics dashboard + pgbench load testing | Kubernetes · React · Postgres |
-| 🛡️ [ascon-128-side-channel-analysis](https://github.com/MuhammadTaha305/ascon-128-side-channel-analysis) | Profiled deep-learning side-channel attack on an ARM Cortex-M3 ASCON-128 implementation | C · TensorFlow · Rainbow |
-| 🌿 [plant-disease-classification](https://github.com/MuhammadTaha305/plant-disease-classification) | Transfer-learning study (ResNet50/MobileNetV2/VGG16) reaching 96.96% across 38 classes | PyTorch · CNNs |
-| 🧰 [compiler-construction](https://github.com/MuhammadTaha305/compiler-construction) | 8-phase mini C compiler with an LLVM IR backend and a web visualization dashboard | C · Flex · Bison · LLVM |
-| 🌍 [terrorism-analysis](https://github.com/MuhammadTaha305/terrorism-analysis) | Global Terrorism Database study: a 3D globe + Streamlit analytics dashboard | React · Three.js · Streamlit |
-| 🏙️ [civic-track](https://github.com/MuhammadTaha305/civic-track) | Civic issue–reporting platform with geotagged complaints and realtime status | React · Supabase · Leaflet |
-
----
-
 <div align="center">
   <i>☁️ Cloud-curious · 🛡️ security-minded · 📖 perpetual learner</i>
 </div>
