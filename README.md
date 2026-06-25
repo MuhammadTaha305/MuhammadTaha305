@@ -1,12 +1,14 @@
-# 🧑‍💻 Hi, I'm Muhammad Taha, a Cloud & DevOps Developer from Pakistan 🇵🇰
+# 🧑‍💻 Hi, I'm Muhammad Taha, a Cloud & DevOps Engineer from Pakistan 🇵🇰
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;Web+Dev+%7C+Java+%7C+MySQL+%7C+AI+enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=CS%20Student%20%40%20NUST%20SEECS%20%F0%9F%8E%93;Cloud%20%7C%20DevOps%20%7C%20Cybersecurity%20%F0%9F%9B%A1%EF%B8%8F;AWS%20Certified%20Solutions%20Architect%20%E2%98%81%EF%B8%8F;Always%20learning%20something%20new%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tahapk.cloud-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://tahapk.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taha-60aa8628a)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/f84e67a3-863f-4222-b6f0-f7823f264b02/public_url)
+<p align="center">
+  <a href="https://tahapk.cloud"><img src="https://img.shields.io/badge/Portfolio-tahapk.cloud-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/muhammad-taha-60aa8628a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/badges/f84e67a3-863f-4222-b6f0-f7823f264b02/public_url"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA"></a>
+</p>
 
 ---
 
