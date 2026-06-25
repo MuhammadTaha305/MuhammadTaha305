@@ -74,7 +74,7 @@
 <div align="center">
 
 ![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTaha305&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaha305&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaha305&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter%20notebook,html,css)
 
 </div>
 
