@@ -12,8 +12,6 @@
 
 ---
 
-## 👨‍💻 Talking about Personal Stuff
-
 - 🎓 I'm a **Computer Science** student at **NUST SEECS**, Islamabad.
 - ☁️ I'm an **AWS Certified Solutions Architect – Associate**, building toward a career in **Cloud / DevOps engineering**.
 - 🔭 I'm currently working through a structured DevOps path: **Linux → Docker → GitHub Actions → Terraform → Ansible → Kubernetes**.
@@ -24,9 +22,6 @@
 - 📫 How to reach me: **muhammadtaha7006@gmail.com**
   
 ---
-
-## 🛠️ Technologies & Tools
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -68,8 +63,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
