@@ -1,5 +1,9 @@
 # 🧑‍💻 Hi, I'm Muhammad Taha, a Cloud & DevOps Developer from Pakistan 🇵🇰
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;Web+Dev+%7C+Java+%7C+MySQL+%7C+AI+enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahapk.cloud-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://tahapk.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taha-60aa8628a)
 [![Email](https://img.shields.io/badge/Email-muhammadtaha7006-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtaha7006@gmail.com)
