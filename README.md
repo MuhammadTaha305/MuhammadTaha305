@@ -79,7 +79,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>☁️ Cloud-curious · 🛡️ security-minded · 📖 perpetual learner</i>
-</div>
