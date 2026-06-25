@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahapk.cloud-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://tahapk.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taha-60aa8628a)
 [![Email](https://img.shields.io/badge/Email-muhammadtaha7006-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtaha7006@gmail.com)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/f84e67a3-863f-4222-b6f0-f7823f264b02/public_url)
 
 ---
 
