@@ -1,4 +1,4 @@
-# 🧑‍💻 Hi, I'm Muhammad Taha — a Cloud & DevOps Developer from Pakistan 🇵🇰
+# 🧑‍💻 Hi, I'm Muhammad Taha, a Cloud & DevOps Developer from Pakistan 🇵🇰
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahapk.cloud-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://tahapk.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taha-60aa8628a)
